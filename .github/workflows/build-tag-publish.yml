@@ -11,7 +11,7 @@ on:
 
   release:
     types: [created]
-#adding test comment
+#adding test comment 2
 jobs:
   build:
     name: DevOps Challange
