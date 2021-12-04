@@ -10,7 +10,7 @@ on:
       - master
 
   release:
-    types: [published]
+    types: [created]
 #adding test comment 2
 jobs:
   build:
